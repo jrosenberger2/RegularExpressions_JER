@@ -1,0 +1,7 @@
+(gloom)(y|ily|iness)?
+(haunt)(s|ing|ings|y)?
+(myster)(y|ies|ly|ious(ness(es)?)?)
+((fore|for)bod)(e(d?)|ing(ly|ness(es)?)?)
+(melanchol)(y|i(c|a))
+(terror)(s|ful)?
+(desolat)(e(d(ness)?|ly)?|ion)
